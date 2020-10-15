@@ -11,7 +11,7 @@
   ```
   このノートでは，以降homebrewがインストールされている前提で話を進める．
 
-* TeXliveのインストール
+* TeX Liveのインストール
 
   [TeX wiki](https://texwiki.texjp.org/?TeX%20Live%2FMac#texlive-install-brew)を参考にした．
   下記のコマンドを実行する．通信速度にもよるが，1行目と2行目の実行で，それぞれ1時間以上はかかると考えておいた方が良い．
