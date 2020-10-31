@@ -11,6 +11,26 @@
   ```
   このノートでは，以降homebrewがインストールされている前提で話を進める．
 
+* homebrewでインストールしておくと良いもの
+
+  - gcc
+  ```
+  brew install gcc
+  ```
+  - gnuplot
+  ```
+  brew install gnuplot
+  ```
+  - python3 
+  ```
+  brew install python
+  ```
+  
+  - LaTeX
+  
+    インストール手順が他よりも若干複雑なので，後で述べる．
+  
+  
 * TeX Liveのインストール
 
   [TeX wiki](https://texwiki.texjp.org/?TeX%20Live%2FMac#texlive-install-brew)を参考にした．
