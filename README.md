@@ -10,6 +10,20 @@
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
   ```
   このノートでは，以降homebrewがインストールされている前提で話を進める．
+  
+* Catalina上のhomebrewで起こりうる問題
+
+  もし，なんらかのアプリをインストールしようとして，下記のようなエラーメッセージが出てきたら，参考になるかもしれない．
+  ```
+  You should change the ownership of these directories to your user.
+  sudo chown -R $(whoami) .........
+  ```
+  このメッセージが出るときは，homebrewがある場所にファイルを置こうとして，その権限がないために失敗していることが原因である．
+  そこで，メッセージに書いてある通りのコマンドを実行すると解決する．つまり，
+  ```
+  sudo chown -R $(whoami) .........
+  ```
+  
 
 * homebrewでインストールしておくと良いもの
 
@@ -17,10 +31,12 @@
   ```
   brew install gcc
   ```
+  
   - gnuplot
   ```
   brew install gnuplot
   ```
+  
   - python3 
   ```
   brew install python
@@ -29,6 +45,7 @@
   - LaTeX
   
     インストール手順が他よりも若干複雑なので，後で述べる．
+    またインストール時間も長いので，まずは他のソフトを優先的にインストールすると良い．
   
   
 * TeX Liveのインストール
