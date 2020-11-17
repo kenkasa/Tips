@@ -84,8 +84,8 @@
 
   - VMD
   
-  [公式サイト](https://www.ks.uiuc.edu/Research/vmd/)よりダウンロード．
-  その際，アカウント登録が必要になる．もし，登録が嫌な人は連絡してください．
+    [公式サイト](https://www.ks.uiuc.edu/Research/vmd/)よりダウンロードできる．
+    その際，アカウント登録が必要になる．もし，登録が嫌な人は連絡してください．
 
 * Optional
 
