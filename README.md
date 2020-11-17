@@ -42,6 +42,11 @@
   brew install python
   ```
   
+  - Gromacs 2020.4
+  ```
+  brew install gromacs
+  ```
+  
   - LaTeX
   
     インストール手順が他よりも若干複雑なので，[別ページ](./LaTeX_brew.md)にまとめた
