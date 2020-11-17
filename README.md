@@ -25,6 +25,9 @@
 * homebrewのインストール
 
   [homebrewのwebsite](https://brew.sh/index_ja)に書いてあるインストールコマンドを実行する．
+  
+  （注） homebrewに似たアプリケーションとして，MacPortsがあるが，homebrewをインストールした後はMacPortsは決してインストールしないこと．
+  
   2020年10月16日現在では下記．
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
