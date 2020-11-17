@@ -68,8 +68,8 @@
   - python3 
   ```
   brew install python
-  berw pip3 install
   ```
+  Anacondaを利用したい場合は，そちらでも良い．
   
   - Gromacs 2020.4
   ```
