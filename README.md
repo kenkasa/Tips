@@ -56,25 +56,25 @@
 * homebrewでインストールしておくと良いもの
 
   - gcc
-  ```
-  brew install gcc
-  ```
+    ```
+    brew install gcc
+    ```
   
   - gnuplot
-  ```
-  brew install gnuplot
-  ```
+    ```
+    brew install gnuplot
+    ```
   
   - python3 
-  ```
-  brew install python
-  ```
-  Anacondaを利用したい場合は，そちらでも良い．
+    ```
+    brew install python
+    ```
+    Anacondaを利用したい場合は，そちらでも良い．
   
   - Gromacs 2020.4
-  ```
-  brew install gromacs
-  ```
+    ```
+    brew install gromacs
+    ```
   
   - LaTeX
   
