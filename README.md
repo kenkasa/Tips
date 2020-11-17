@@ -67,7 +67,7 @@
   
   - python3 
     ```
-    brew install python
+    brew install python3
     ```
     Anacondaを利用したい場合は，そちらでも良い．
   
