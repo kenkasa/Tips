@@ -106,12 +106,6 @@
     brew install gnuplot
     ```
   
-  - python3 
-    ```
-    brew install python3
-    ```
-    Anacondaを利用したい場合は，そちらでも良い．
-  
   - Gromacs 2020.4
     ```
     brew install gromacs
