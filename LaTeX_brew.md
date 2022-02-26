@@ -10,7 +10,7 @@
   下記のコマンドを実行する．
   通信速度にもよるが，1行目と2行目の実行で，それぞれ1時間以上はかかると考えておいた方が良い．
   ```
-  brew cask install mactex
+  brew install mactex
   sudo tlmgr update --self --all
   sudo tlmgr paper a4
   ```
